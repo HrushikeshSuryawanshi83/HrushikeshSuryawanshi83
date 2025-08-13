@@ -40,13 +40,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrushikesh786&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HrushikeshSuryawanshi83&theme=radical)
 
 <div align="center">
 
-![Hrushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushikesh786&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Hrushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HrushikeshSuryawanshi83&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh786&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshSuryawanshi83&layout=compact&theme=radical)
 
 </div>  
 
@@ -62,4 +62,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
